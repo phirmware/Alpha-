@@ -1,0 +1,93 @@
+.jumbotron>h1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    color: darkred;
+}.jumbotron>p{
+    text-align: center;
+    font-size: 25px;
+}
+.jumbotron{
+    background: linear-gradient(lightskyblue,lightseagreen);
+    margin-bottom: 0px;
+}
+.navbar{
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+    background: darkred;
+    border: solid 1px black;
+}
+.custom-nav>a{
+    font-size: 25px;
+    font-weight: bold;
+    color: lightseagreen;
+    display: inline-block;
+    padding: 8px;
+}
+input{
+    width: 350px;
+    margin-left: 0px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.navbar-brand{
+    font-size: 25px;
+    color: aqua;
+}
+.navbar-form{
+    width: 400px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+
+.paragraph{
+    font-size: 25px;
+}
+.img-circle{
+    margin: 0px;
+    width: 240px;
+    height: 150px;
+    float: left;
+}
+.team-header{
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+}
+legend{
+    text-align: center;
+    font-size: 35px;
+}
+label{
+    font-size: 20px;
+}
+.submit{
+    font-size: 25px;
+}
+.register{
+    height: 40px;
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+.kid{
+    background:  radial-gradient(lightskyblue,lightseagreen);
+    border-radius: 5px;
+    height: 500px;
+}
+.footer{
+    background: black;
+    color: white;
+    height: 100px;
+    border-radius: 5px;
+    overflow: inherit;
+    font-size: 25px;
+}
+.signup{
+    height: 500px;
+}
+.head{
+    width: 200px;
+}
